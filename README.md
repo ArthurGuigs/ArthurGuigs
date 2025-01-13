@@ -6,8 +6,9 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=arthurguigs&repo=github-readme-stats&cache_seconds=86400&theme=nightowl"
-    media="(prefers-color-scheme: nightowl)"
+    <div>
+    <a href="https://github.com/ArthurGuigs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArthurGuigs&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=arthurguigs&show_icons=true"
@@ -15,6 +16,10 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=arthurguigs&show_icons=true" />
 </picture>
+
+<div>
+  <a href="https://github.com/ArthurGuigs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArthurGuigs&layout=compact&langs_count=8&theme=dracula"/>
 
 ##
 
@@ -26,7 +31,6 @@
   ##
  
 <div> 
-  <a href = "mailto:arthur.silvaguilhermea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arthur.silvaguilhermea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arthur-siqueira-3862211a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
