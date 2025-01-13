@@ -6,10 +6,12 @@
 
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurguigs&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguigs&layout=donut)](https://github.com/arthurguigs/github-readme-stats)
   
 
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia a dia
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
