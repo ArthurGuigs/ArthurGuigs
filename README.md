@@ -6,8 +6,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=arthurguigs&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: blueberry)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=arthurguigs&repo=github-readme-stats&cache_seconds=86400&theme=nightowl"
+    media="(prefers-color-scheme: nightowl)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=arthurguigs&show_icons=true"
@@ -20,6 +20,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Arthur-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
   
   ##
